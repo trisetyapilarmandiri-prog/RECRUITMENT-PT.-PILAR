@@ -218,7 +218,7 @@ RECRUITMENT FOR MANPOWER IKN SITE
 
       <div class="right">
 
-        <img src="logo putih 2.png" class="logo">
+        <img src="logo putih 2.jpg" class="logo">
 
         <div class="left">
 		<div class="tagline">
@@ -243,7 +243,7 @@ RECRUITMENT FOR MANPOWER IKN SITE
       </div>
 
           <div class="center">
-        <img src="construction.png" class="hero-img">
+        <img src="construction.jpg" class="hero-img">
       </div>
 
 
@@ -332,7 +332,7 @@ RECRUITMENT FOR MANPOWER IKN SITE
 
       <div class="qr">
 
-        <img src="Rekrutmen by PT. Trisetya Pilar Mandiri.png">
+        <img src="Rekrutmen by PT. Trisetya Pilar Mandiri.jpg">
 
       </div>
 
