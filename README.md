@@ -1,4 +1,4 @@
-RECRUITMENT FOR MANPOWER IKN SITE
+<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -344,3 +344,6 @@ RECRUITMENT FOR MANPOWER IKN SITE
 
 
   </div>
+
+</body>
+</html>
