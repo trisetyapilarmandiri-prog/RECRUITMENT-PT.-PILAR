@@ -1,6 +1,5 @@
-# RECRUITMENT-PT.-PILAR
+
 RECRUITMENT FOR MANPOWER IKN SITE
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
