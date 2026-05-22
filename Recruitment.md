@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -209,6 +210,8 @@
   </style>
 </head>
 
+<body>
+
   <div class="container">
 
     <div class="hero">
@@ -216,7 +219,6 @@
       <div class="right">
 
         <img src="logo putih 2.jpg" class="logo">
-		![logo putih 2.jpg](/main/images/foto.jpg)
 
         <div class="left">
 		<div class="tagline">
@@ -342,3 +344,6 @@
 
 
   </div>
+
+</body>
+</html>
