@@ -217,7 +217,8 @@
 
       <div class="right">
 
-        <img src="logo putih 2.jpg" class="logo">(/assets/images/foto.jpg)
+        <img src="logo putih 2.jpg" class="logo">
+		![logo putih 2.jpg](/assets/images/foto.jpg)
 
         <div class="left">
 		<div class="tagline">
