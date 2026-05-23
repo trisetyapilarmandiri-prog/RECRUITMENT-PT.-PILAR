@@ -338,6 +338,9 @@
 
     </div>
 
+	</body>
+	</html>
+
     <footer>
       “BERSAMA KITA BANGUN NEGERI, MENATA MASA DEPAN”
 	</footer>
